@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development.
 - ⚡ Fun fact: I'm originally from Vancouver, BC!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-shivya-mehta/)! :)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shivya-mehta/)! :)
 
 <!---
 shivyam/shivyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
