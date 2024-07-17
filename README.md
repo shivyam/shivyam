@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shivya, a third year Software Engineering student at McMaster University.
 - 👀 I’m interested in Full Stack Development.
-- ⚡ Fun fact: I'm originally from Vancouver, BC!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/shivya-mehta/)! :)
 
